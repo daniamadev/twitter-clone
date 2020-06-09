@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Fred Gomes",
+    "usuario": "@fred",
+    "data": "Ago 18",
+    "imagem": "https://randomuser.me/api/portraits/men/45.jpg",
+    "mensagem": "Getting sincere about something; applying oneself seriously to a job.",
+    "comentarios": 20,
+    "compartilhamentos": 33,
+    "likes": 10
+  },
+  {
+    "nome": "Bianca Ribeiro",
+    "usuario": "@bi",
+    "data": "Ago 15",
+    "imagem": "https://randomuser.me/api/portraits/women/41.jpg",
+    "mensagem": "Ignoring a large, obvious problem or failing to address an issue that stands out in a major way.",
+    "comentarios": 10,
+    "compartilhamentos": 30,
+    "likes": 4
+  },
+  {
+    "nome": "Carlos Lima",
+    "usuario": "@carlos",
+    "data": "Ago 15",
+    "imagem": "https://randomuser.me/api/portraits/men/49.jpg",
+    "mensagem": "Thinking alike or understanding something in a similar way with others.",
+    "comentarios": 11,
+    "compartilhamentos": 25,
+    "likes": 2
+  }
+]

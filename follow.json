@@ -1,0 +1,17 @@
+[
+  {
+    "imagem": "https://randomuser.me/api/portraits/men/35.jpg",
+    "nome": "Bruno Silva",
+    "usuario": "bsilva"
+  },
+  {
+    "imagem": "https://randomuser.me/api/portraits/men/58.jpg",
+    "nome": "Cristiano Lopes",
+    "usuario": "lopes"
+  },
+  {
+    "imagem": "https://randomuser.me/api/portraits/women/12.jpg",
+    "nome": "Maria Gomes",
+    "usuario": "gomes"
+  }
+]
